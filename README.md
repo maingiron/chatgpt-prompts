@@ -14,13 +14,15 @@ Sinta-se à vontade para copiar, adaptar e contribuir com novos prompts!
 #### ➡️ Princípio 80/20 para aprender mais rápido
 
 ```
-Quero aprender sobre [INSERIR TEMA]. Identificar e compartilhar os 20% mais importantes aprendizados desse tema que me ajudarão a entender 80% dele.
+Quero aprender sobre [INSERIR TEMA].
+Identificar e compartilhar os 20% mais importantes aprendizados desse tema que me ajudarão a entender 80% dele.
 ```
 
 #### ➡️ Aprender e desenvolver qualquer nova habilidade
 
 ```
-Quero aprender/melhorar [INSERIR HABILIDADE]. Eu sou um iniciante completo. Crie um plano de aprendizagem de 30 dias que ajudará um iniciante como eu a aprender e melhorar essa habilidade.
+Quero aprender/melhorar [INSERIR HABILIDADE]. Eu sou um iniciante completo.
+Crie um plano de aprendizagem de 30 dias que ajudará um iniciante como eu a aprender e melhorar essa habilidade.
 ```
 
 #### ➡️ Obter resumos de livros curtos e insights
